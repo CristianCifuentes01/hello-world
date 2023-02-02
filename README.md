@@ -1,2 +1,3 @@
 # hello-world
-Mi primer repositor
+Mi primer repositorio
+I'm Cristian, and I'm 18 years old
