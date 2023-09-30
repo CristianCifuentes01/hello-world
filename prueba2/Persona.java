@@ -35,4 +35,11 @@ public class Persona {
 		this.cedula = cedula;
 	}
 	
+	
+	public String toString() {
+		
+		return "\nNombre: " + nombre + ", Cédula: " + cedula + ", Email: " + email;
+	}
 }
+
+
